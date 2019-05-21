@@ -3,9 +3,9 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 ## Places to talk
 
-* The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
+**The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
 
-Psychology Today maintains a good directory of therapists. Here are the pages for [Kitchener](https://www.psychologytoday.com/ca/therapists/on/kitchener), [Waterloo](https://www.psychologytoday.com/ca/therapists/on/waterloo) and [Cambridge](https://www.psychologytoday.com/ca/therapists/on/cambridge). *
+Psychology Today maintains a good directory of therapists. Here are the pages for [Kitchener](https://www.psychologytoday.com/ca/therapists/on/kitchener), [Waterloo](https://www.psychologytoday.com/ca/therapists/on/waterloo) and [Cambridge](https://www.psychologytoday.com/ca/therapists/on/cambridge).**
 
 
 
