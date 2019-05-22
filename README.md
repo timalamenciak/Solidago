@@ -31,8 +31,12 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ## Food
 
-
+## Nature
 
 ## Life-sustaining systems
 
 >These resources are options for finding more sustainable ways of doing the things we need to live like buying groceries, banking and getting around.
+
+## Food
+
+[Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
