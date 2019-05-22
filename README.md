@@ -19,23 +19,31 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ## Places to act
 
-### Protests
+#### Protests
 
 [Fridays for Future KW](https://www.facebook.com/fridaysforfuturekw/) - Friday youth climate strike protests. The local branch of [Greta Thunberg's international effort](https://www.fridaysforfuture.org/).
 
 [Extinction Rebellion KW](https://www.facebook.com/groups/ExtinctionRebellionKW/) - The KW branch of the worldwide [Extinction Rebellion movement](https://rebellion.earth) organizes local protests and talks. There is also an [Ontario-wide chapter](https://www.facebook.com/extinctionrebellionontario/).
 
-### Business action
+#### Green your business
 
 [Divest Waterloo](http://divestwaterloo.ca/) - Divest Waterloo is an organization devoted to sustainable investments. They push for local organizations to divest from fossil fuels and provide information about how to do so.
 
 [Sustainable Waterloo Region](https://www.sustainablewaterlooregion.ca/) - This organization helps local businesses and other groups find ways of being sustainable. The [Regional Sustainability Initiative](https://www.sustainablewaterlooregion.ca/join-a-program/regional-sustainability-initiative/) is one way that your business can find ways to be more sustainable.
 
-### Your home
+#### Nature
 
+[rare Charitable Research Reserve](https://raresites.org/volunteer/) - rare is a 1,000-acre nature reserve in Cambridge that regularly hosts volunteer events to help with the restoration and maintenance of the property. If you want to get your hands dirty and learn about plants, this one is for you.
 
+[Minjimendan](http://minjimendan.com/) - Minjimendan means "in a state of remembering". This First Nations medicine garden is hosted at rare and regularly needs volunteers to help out.
 
-### Nature
+[Wildflowers Forest School](http://wildflowersforestschool.ca/) - This forest school is at Bechtel Park in Waterloo. A good place to volunteer if you're good with kids and want to help them engage with nature.
+
+#### Green your house
+
+[Reep Green Solutions](https://reepgreen.ca/) - Reep focuses on stormwater infrastructure and energy conservation. They will help homeowners out with a rain garden, energy audit and more. Frequent volunteer opportunities.
+
+[Native Plant Source](http://www.nativeplantsource.com/) - Native Plant Source is a full service ecological landscaping company and native plant nursery. Get rid of your lawn and get some butterflies. Full disclosure: The maintainer of this page works here.
 
 ## Life-sustaining systems
 
