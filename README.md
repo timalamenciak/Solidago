@@ -17,26 +17,30 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
 
-## Protest
+## Places to act
+
+### Protests
 
 [Fridays for Future KW](https://www.facebook.com/fridaysforfuturekw/) - Friday youth climate strike protests. The local branch of [Greta Thunberg's international effort](https://www.fridaysforfuture.org/).
 
 [Extinction Rebellion KW](https://www.facebook.com/groups/ExtinctionRebellionKW/) - The KW branch of the worldwide [Extinction Rebellion movement](https://rebellion.earth) organizes local protests and talks. There is also an [Ontario-wide chapter](https://www.facebook.com/extinctionrebellionontario/).
 
-## Business
+### Business action
 
 [Divest Waterloo](http://divestwaterloo.ca/) - Divest Waterloo is an organization devoted to sustainable investments. They push for local organizations to divest from fossil fuels and provide information about how to do so.
 
 [Sustainable Waterloo Region](https://www.sustainablewaterlooregion.ca/) - This organization helps local businesses and other groups find ways of being sustainable. The [Regional Sustainability Initiative](https://www.sustainablewaterlooregion.ca/join-a-program/regional-sustainability-initiative/) is one way that your business can find ways to be more sustainable.
 
-## Food
+### Your home
 
-## Nature
+
+
+### Nature
 
 ## Life-sustaining systems
 
 >These resources are options for finding more sustainable ways of doing the things we need to live like buying groceries, banking and getting around.
 
-## Food
+### Food
 
 [Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
