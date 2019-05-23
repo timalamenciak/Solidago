@@ -3,11 +3,15 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
+***
+
 # Contents
 
-[Places to act](#places-to-act)
-[Places to talk](#places-to-talk)
-[Life-sustaining systems](#life-sustaining-systems)
+[Places to act](#places-to-act)  
+[Places to talk](#places-to-talk)  
+[New life-sustaining systems](#new-life-sustaining-systems)
+
+***
 
 ## Places to act
 
@@ -47,6 +51,8 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Faith and the Common Good](https://www.faithcommongood.org/kitchener_waterloo) - This organization is dedicated to helping religious institutions improve their environmental footprint. If your faith organization needs a hand figuring out how to green their landscape, improve energy use or promote environmentally conscious behaviour, this is the group to go to.
 
+***
+
 ## Places to talk
 
 >The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
@@ -61,7 +67,9 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
 
-## Life-sustaining systems
+***
+
+## New life-sustaining systems
 
 >These resources are options for finding more sustainable ways of doing the things we need to live like buying groceries, banking and getting around.
 
