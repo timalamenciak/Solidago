@@ -5,7 +5,7 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ***
 
-# Contents
+### Contents
 
 [Places to act](#places-to-act)  
 [Places to talk](#places-to-talk)  
@@ -13,7 +13,7 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ***
 
-## Places to act
+### Places to act
 
 #### Protests
 
