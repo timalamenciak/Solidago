@@ -15,6 +15,8 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ### Places to act
 
+>KWPeace maintains a great events calendar on [their website](https://kwpeace.ca/).
+
 #### Protests
 
 [Fridays for Future KW](https://www.facebook.com/fridaysforfuturekw/) - Friday youth climate strike protests. The local branch of [Greta Thunberg's international effort](https://www.fridaysforfuture.org/).
