@@ -53,7 +53,7 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ***
 
-## Places to talk
+### Places to talk
 
 >The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
 >
@@ -69,7 +69,7 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 ***
 
-## New life-sustaining systems
+### New life-sustaining systems
 
 >These resources are options for finding more sustainable ways of doing the things we need to live like buying groceries, banking and getting around.
 
