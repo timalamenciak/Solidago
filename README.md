@@ -1,5 +1,5 @@
 # Region of Waterloo climate crisis links
-This page is for people in the Region of Waterloo who are concerned about global ecological destruction but don't know what to do. The links below lead to local organizations where you can make a difference.
+This page is for people in the Region of Waterloo who are concerned about global ecological destruction but don't know what to do. The links below lead to local organizations where you can make a difference. Many of the links are for volunteer opportunities, others are for places that
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
@@ -13,7 +13,7 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Coping With Climate Change](https://www.facebook.com/events/2349419085302733/) - This is a monthly support group based on the book [Active Hope](https://www.activehope.info/) by Joanna Macy and Chris Johnstone. Second Wednesday of every month, 7 p.m. to 8:30 p.m. at [The Causerie](https://www.marit.ca/) 154 Victoria St. S.
 
-[Extinction Cafe](https://www.facebook.com/groups/ExtinctionRebellionKW/) - Extinction Rebellion KW runs grief circle events periodically. Notices are posted in their Facebook group.
+[Extinction Cafe](https://www.facebook.com/groups/ExtinctionRebellionKW/) - Extinction Rebellion KW runs grief circle events periodically. Notices are posted in their Facebook group. The event is usually hosted at the Queen Street Commons cafe.
 
 [Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
 
@@ -39,11 +39,21 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Wildflowers Forest School](http://wildflowersforestschool.ca/) - This forest school is at Bechtel Park in Waterloo. A good place to volunteer if you're good with kids and want to help them engage with nature.
 
+[Grand River Conservation Authority](https://www.grandriver.ca/en/learn-get-involved/volunteer.aspx) - The GRCA runs parks in and around the Grand River. They have frequent volunteer opportunities.
+
 #### Green your house
 
 [Reep Green Solutions](https://reepgreen.ca/) - Reep focuses on stormwater infrastructure and energy conservation. They will help homeowners out with a rain garden, energy audit and more. Frequent volunteer opportunities.
 
 [Native Plant Source](http://www.nativeplantsource.com/) - Native Plant Source is a full service ecological landscaping company and native plant nursery. Get rid of your lawn and get some butterflies. Full disclosure: The maintainer of this page works here.
+
+#### Community
+
+[Transition KW](https://www.facebook.com/TransitionKW/) - This group is dedicated to a more resilient community. They run events like the Repair Cafe to help transition to a connected, sustainable community.
+
+[Hold The Line WR](https://www.facebook.com/HoldtheLineWR/) - This annual festival happens in September and is dedicated to celebrating (and holding) the boundary between urban and rural in Waterloo Region.
+
+[Faith and the Common Good](https://www.faithcommongood.org/kitchener_waterloo) - This organization is dedicated to helping religious institutions improve their environmental footprint. If your faith organization needs a hand figuring out how to green their landscape, improve energy use or promote environmentally conscious behaviour, this is the group to go to.
 
 ## Life-sustaining systems
 
@@ -52,3 +62,21 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 ### Food
 
 [Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
+
+### Tools
+
+[KW Library of Things](http://kwlot.ca) - The Library of Things at 91 Moore Street has a variety of tools available to borrow. Annual memberships cost $40.
+
+### Banking
+
+[Kindred Credit Union](https://www.kindredcu.com/) - Co-operative community-based banking that allows money and investments to stay in the community. They offer many socially responsible investment options.
+
+### Clothing, furniture and things
+
+[Thrift on Kent](http://thriftonkent.com/) - One of the best thrift shops in the region.
+
+[Worth a Second Look Furniture & Housewares](https://www.theworkingcentre.org/worth-second-look/166) - The Working Centre runs this used furniture store on Victoria Street. Shopping here supports the important work they do.
+
+### Transportation
+
+[Recycle Cycles](https://www.theworkingcentre.org/recycle-cycles/153) - Great used bicycles for sale and the chance to learn how to fix your own ride.
