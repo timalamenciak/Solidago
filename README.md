@@ -3,19 +3,11 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
-## Places to talk
+# Contents
 
->The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
-
->Psychology Today maintains a good directory of therapists. Here are the pages for [Kitchener](https://www.psychologytoday.com/ca/therapists/on/kitchener), [Waterloo](https://www.psychologytoday.com/ca/therapists/on/waterloo) and [Cambridge](https://www.psychologytoday.com/ca/therapists/on/cambridge).
-
->[Addictions, Mental Health & Crisis Services for Waterloo-Wellington](http://here247.ca/) operates a 24-hour help line: **1-844-437-3247**.
-
-[Coping With Climate Change](https://www.facebook.com/events/2349419085302733/) - This is a monthly support group based on the book [Active Hope](https://www.activehope.info/) by Joanna Macy and Chris Johnstone. Second Wednesday of every month, 7 p.m. to 8:30 p.m. at [The Causerie](https://www.marit.ca/) 154 Victoria St. S.
-
-[Extinction Cafe](https://www.facebook.com/groups/ExtinctionRebellionKW/) - Extinction Rebellion KW runs grief circle events periodically. Notices are posted in their Facebook group. The event is usually hosted at the Queen Street Commons cafe.
-
-[Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
+[Places to act](#places-to-act)
+[Places to talk](#places-to-talk)
+[Life-sustaining systems](#life-sustaining-systems)
 
 ## Places to act
 
@@ -55,28 +47,42 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 
 [Faith and the Common Good](https://www.faithcommongood.org/kitchener_waterloo) - This organization is dedicated to helping religious institutions improve their environmental footprint. If your faith organization needs a hand figuring out how to green their landscape, improve energy use or promote environmentally conscious behaviour, this is the group to go to.
 
+## Places to talk
+
+>The climate crisis can lead to serious feelings of depression and anxiety. The groups below are self-organized and may be helpful, but they are no substitute for professional help.
+>
+>Psychology Today maintains a good directory of therapists. Here are the pages for [Kitchener](https://www.psychologytoday.com/ca/therapists/on/kitchener), [Waterloo](https://www.psychologytoday.com/ca/therapists/on/waterloo) and [Cambridge](https://www.psychologytoday.com/ca/therapists/on/cambridge).
+>
+>[Addictions, Mental Health & Crisis Services for Waterloo-Wellington](http://here247.ca/) operates a 24-hour help line: **1-844-437-3247**.
+
+[Coping With Climate Change](https://www.facebook.com/events/2349419085302733/) - This is a monthly support group based on the book [Active Hope](https://www.activehope.info/) by Joanna Macy and Chris Johnstone. Second Wednesday of every month, 7 p.m. to 8:30 p.m. at [The Causerie](https://www.marit.ca/) 154 Victoria St. S.
+
+[Extinction Cafe](https://www.facebook.com/groups/ExtinctionRebellionKW/) - Extinction Rebellion KW runs grief circle events periodically. Notices are posted in their Facebook group. The event is usually hosted at the Queen Street Commons cafe.
+
+[Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
+
 ## Life-sustaining systems
 
 >These resources are options for finding more sustainable ways of doing the things we need to live like buying groceries, banking and getting around.
 
-### Food
+#### Food
 
 [Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
 
-### Tools
+#### Tools
 
 [KW Library of Things](http://kwlot.ca) - The Library of Things at 91 Moore Street has a variety of tools available to borrow. Annual memberships cost $40.
 
-### Banking
+#### Banking
 
 [Kindred Credit Union](https://www.kindredcu.com/) - Co-operative community-based banking that allows money and investments to stay in the community. They offer many socially responsible investment options.
 
-### Clothing, furniture and things
+#### Clothing, furniture and things
 
 [Thrift on Kent](http://thriftonkent.com/) - One of the best thrift shops in the region.
 
 [Worth a Second Look Furniture & Housewares](https://www.theworkingcentre.org/worth-second-look/166) - The Working Centre runs this used furniture store on Victoria Street. Shopping here supports the important work they do.
 
-### Transportation
+#### Transportation
 
 [Recycle Cycles](https://www.theworkingcentre.org/recycle-cycles/153) - Great used bicycles for sale and the chance to learn how to fix your own ride.
