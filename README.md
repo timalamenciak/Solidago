@@ -3,6 +3,8 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
+__Last updated: May 27, 2019__
+
 ***
 
 ### Contents
@@ -92,6 +94,8 @@ If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.
 [Thrift on Kent](http://thriftonkent.com/) - One of the best thrift shops in the region.
 
 [Worth a Second Look Furniture & Housewares](https://www.theworkingcentre.org/worth-second-look/166) - The Working Centre runs this used furniture store on Victoria Street. Shopping here supports the important work they do.
+
+[Habitat for Humanity ReStore](https://habitatwr.ca/restore) - Everything from building supplies to furniture to counters and faucets. They salvage old home supplies and sell them to support Habitat for Humanity.
 
 #### Transportation
 
