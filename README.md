@@ -3,7 +3,7 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
-__Last updated: May 27, 2019__
+__Last updated: May 30, 2019__
 
 ***
 
@@ -67,6 +67,8 @@ __Last updated: May 27, 2019__
 
 [Coping With Climate Change](https://www.facebook.com/events/2349419085302733/) - This is a monthly support group based on the book [Active Hope](https://www.activehope.info/) by Joanna Macy and Chris Johnstone. Second Wednesday of every month, 7 p.m. to 8:30 p.m. at [The Causerie](https://www.marit.ca/) 154 Victoria St. S.
 
+[The Working Centre: Weaving Ecology](https://www.theworkingcentre.org/21083-weaving-ecology-2018-19) - This series of talks, conversations and reading clubs focuses on ecology as a theme.
+
 [Extinction Cafe](https://www.facebook.com/groups/ExtinctionRebellionKW/) - Extinction Rebellion KW runs grief circle events periodically. Notices are posted in their Facebook group. The event is usually hosted at the Queen Street Commons cafe.
 
 [Kitchener Waterloo Cambridge Green Drinks](http://www.greendrinks.org/ON/Kitchener%20Waterloo%20Cambridge) - A low-key pub get together for environmentally minded people. These gatherings are held on the second Wednesday of every month, currently at the Heuther Hotel.
@@ -80,6 +82,8 @@ __Last updated: May 27, 2019__
 #### Food
 
 [Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
+
+[Food System Roundtable of Waterloo Region](http://www.wrfoodsystem.ca/) - This group is devoted to working on the food system locally.
 
 #### Tools
 
@@ -100,3 +104,7 @@ __Last updated: May 27, 2019__
 #### Transportation
 
 [Recycle Cycles](https://www.theworkingcentre.org/recycle-cycles/153) - Great used bicycles for sale and the chance to learn how to fix your own ride.
+
+#### End of life
+
+[The Good Green Death Project](http://goodgreendeathproject.ca/) - Burial is an industry that is still behind the times when it comes to sustainability. Susan Koswan is trying to change that locally. Washington State passed legislation allowing bodies to be composted and this project is seeking to make Ontario the second jurisdiction for that.
