@@ -21,11 +21,9 @@ __Last updated: June 1, 2019__
 
 #### Protests
 
-[Fridays for Future KW](https://www.facebook.com/fridaysforfuturekw/) - Friday youth climate strike protests. The local branch of [Greta Thunberg's international effort](https://www.fridaysforfuture.org/).
-
-[Extinction Rebellion KW](https://www.facebook.com/groups/ExtinctionRebellionKW/) - The KW branch of the worldwide [Extinction Rebellion movement](https://rebellion.earth) organizes local protests and talks. There is also an [Ontario-wide chapter](https://www.facebook.com/extinctionrebellionontario/).
-
-[Wellington Water Watchers (Guelph)](http://wellingtonwaterwatchers.ca/) - This group is committed to protecting local water sources, which largely involves [fighting off Nestle](https://www.saynotonestle.ca/) in its attempts to harvest and bottle groundwater.
+* [Fridays for Future KW](https://www.facebook.com/fridaysforfuturekw/) - Friday youth climate strike protests. The local branch of [Greta Thunberg's international effort](https://www.fridaysforfuture.org/).
+* [Extinction Rebellion KW](https://www.facebook.com/groups/ExtinctionRebellionKW/) - The KW branch of the worldwide [Extinction Rebellion movement](https://rebellion.earth) organizes local protests and talks. There is also an [Ontario-wide chapter](https://www.facebook.com/extinctionrebellionontario/).
+* [Wellington Water Watchers (Guelph)](http://wellingtonwaterwatchers.ca/) - This group is committed to protecting local water sources, which largely involves [fighting off Nestle](https://www.saynotonestle.ca/) in its attempts to harvest and bottle groundwater.
 
 #### Green your business
 
