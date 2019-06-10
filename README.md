@@ -3,7 +3,7 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
-__Last updated: June 1, 2019__
+__Last updated: June 10, 2019__
 
 ***
 
@@ -72,6 +72,7 @@ __Last updated: June 1, 2019__
 #### Food
 
 * [Hacienda Sarria Market Garden](https://www.theworkingcentre.org/hacienda-sarria-market-garden/518) - The Hacienda Sarria is a CSA (Community Supported Agriculture) farm on Victoria Street. You can sign up for vegetable shares and get a portion of the harvest each week throughout the summer. This is a great way to lower your food footprint.
+* [Community Garden Council of Waterloo Region](http://community-gardens.ca/) - This is a great place to find community garden plots near you. They fill up quick!
 * [Food System Roundtable of Waterloo Region](http://www.wrfoodsystem.ca/) - This group is devoted to working on the food system locally.
 
 #### Tools
