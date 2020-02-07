@@ -98,6 +98,7 @@ __Last updated: February 7, 2020__
 
 #### Curated consignment and thrift stores
 > One challenge many people have is the need to dress professionally. This sometimes can't be accomplished with thrift store clothing. Curated stores offer a sustainable option for professional apparel.
+
 * [Hello Again Consignment](https://www.helloagainkw.com/) - A consignment clothing store in Belmont Village. On the more fashionable end of the spectrum - a great solution for more formal work clothing.
 * [Twice is Nice & Twice the Man](http://www.twiceisnicewaterloo.com/) - Another upscale consignment store with lots of options for professional men.
 * [Carousel Clothing](http://carouselclothing.ca/) - Upscale consignment for women.
