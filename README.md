@@ -83,15 +83,33 @@ __Last updated: June 10, 2019__
 
 * [Kindred Credit Union](https://www.kindredcu.com/) - Co-operative community-based banking that allows money and investments to stay in the community. They offer many socially responsible investment options.
 
+#### Low-waste shopping
+* [Full Circle Foods](https://www.fullcirclefoods.ca/) - This downtown Kitchener staple is a great place for zero-waste grocery and bulk products, including soap and laundry detergent. They focus on working with small-scale Ontario companies.
+
+* [Zero Waste Bulk](https://www.zerowastebulk.com/) - Uptown Waterloo's zero waste solution also includes local produce and products like soap and candles. Bring your own container for everything, or use one of the free upcycled containers.
+
+* [BYOC Waterloo Region](https://www.facebook.com/groups/166776287366357/) - This Facebook group is devoted to living the low-waste lifestyle. BYOC stands for Bring Your Own Container - the group shows places that allow you to bring your own container.
+
 #### Clothing, furniture and things
 
 * [Thrift on Kent](http://thriftonkent.com/) - One of the best thrift shops in the region.
 * [Worth a Second Look Furniture & Housewares](https://www.theworkingcentre.org/worth-second-look/166) - The Working Centre runs this used furniture store on Victoria Street. Shopping here supports the important work they do.
 * [Habitat for Humanity ReStore](https://habitatwr.ca/restore) - Everything from building supplies to furniture to counters and faucets. They salvage old home supplies and sell them to support Habitat for Humanity.
 
+#### Curated consignment and thrift stores
+> One challenge many people have is the need to dress professionally. This sometimes can't be accomplished with thrift store clothing. Curated stores offer a sustainable option for professional apparel.
+* [Hello Again Consignment](https://www.helloagainkw.com/) - A consignment clothing store in Belmont Village. On the more fashionable end of the spectrum - a great solution for more formal work clothing.
+* [Twice is Nice & Twice the Man](http://www.twiceisnicewaterloo.com/) - Another upscale consignment store with lots of options for professional men.
+* [Carousel Clothing](http://carouselclothing.ca/) - Upscale consignment for women.
+* [White Tiger Vintage](https://www.instagram.com/whitetigervintage/) - For the tech and hipster crowd, White Tiger has a selection of trendy clothes.
+
 #### Transportation
 
 * [Recycle Cycles](https://www.theworkingcentre.org/recycle-cycles/153) - Great used bicycles for sale and the chance to learn how to fix your own ride.
+
+#### Courier
+
+* [Eco Courier](https://www.ecocourierkw.com/) - The Region's only emissions-free delivery service. Does same-day deliveries in Kitchener-Waterloo.
 
 #### End of life
 
