@@ -3,7 +3,7 @@ This page is for people in the Region of Waterloo who are concerned about global
 
 If you have anything to add, email Tim at [tim.alamenciak@gmail.com](mailto:tim.alamenciak@gmail.com)
 
-__Last updated: June 10, 2019__
+__Last updated: February 7, 2020__
 
 ***
 
